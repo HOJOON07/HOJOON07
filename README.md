@@ -6,8 +6,8 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 Skills: REACT/ NodeJS/ MongoDB/ Javascript/ Typescript/ HTML/ CSS
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Typescript 
+
+- 🌱 I’m currently learning Typescript , NodeJS
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/HOJOON07)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/hzoxjcnv/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://velog.io/@ghwns1007)  
