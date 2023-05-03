@@ -14,7 +14,7 @@ Skills: REACT/ NodeJS/ MongoDB/ Javascript/ Typescript/ HTML/ CSS/MySql
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=HOJOON07&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=HOJOON07)  
+ 
 
 ![GitHub metrics](https://metrics.lecoq.io/HOJOON07)  
 
