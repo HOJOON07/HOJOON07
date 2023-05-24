@@ -6,7 +6,7 @@ Skills: REACT/ NodeJS/ MongoDB/ Javascript/ Typescript/ HTML/ CSS/MySql
 
 
 - 🌱 I’m currently learning Typescript , NodeJS
-- Umm. RDMS Study + ing ...
+- RDMS Study + ing ...
 - Resume..
 - React Native Study + ing ~ 
 - AWS Study + ing ~
