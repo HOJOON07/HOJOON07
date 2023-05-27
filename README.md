@@ -2,7 +2,7 @@
 #### FrontEnd Developer & BackEnd Developer
 ![FrontEnd Developer(a little back..)](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-Skills: REACT/ NodeJS/ MongoDB/ Javascript/ Typescript/ HTML/ CSS/MySql
+Skills: REACT/ NodeJS/ MongoDB/ Javascript/ Typescript/ HTML/ CSS
 
 
 - 🌱 I’m currently learning Typescript , NodeJS
