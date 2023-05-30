@@ -1,4 +1,4 @@
-### Hi there 👋, My Name is HoJoon
+### Hi there 👋, My Name is Kim HoJoon
 #### FrontEnd Developer & BackEnd Developer
 ![FrontEnd Developer(a little back..)](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
