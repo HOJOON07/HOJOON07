@@ -11,6 +11,7 @@ Skills: REACT/ NodeJS/ MongoDB/ Javascript/ Typescript/ HTML/ CSS
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ghwns1007&color=dark)](https://velog.io/@ghwns1007)
 <h2>하고 있는 거</h2>
+
 - 🌱 I’m currently learning Typescript , NodeJS
 - RDMS Study + ing ...(찍먹)
 - Resume..
