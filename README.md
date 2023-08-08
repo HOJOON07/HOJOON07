@@ -10,14 +10,19 @@ Skills: REACT/ NodeJS/ MongoDB/ Javascript/ Typescript/ HTML/ CSS
 </h2>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ghwns1007&color=dark)](https://velog.io/@ghwns1007)
-
+<h2>하고 있는 거</h2>
 - 🌱 I’m currently learning Typescript , NodeJS
-- RDMS Study + ing ...
+- RDMS Study + ing ...(찍먹)
 - Resume..
-- React Native Study + ing ~ 
-- AWS Study + ing ~
+- React Native Study
+- AWS Study + ing(잘 모르겠음)
 - Computer Science 
 - Algorithm
+- Next.js 
+- CICD
+- Modern JavaScript DeepDive 완독하기 
+- Express, Nest
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/HOJOON07)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/hzoxjcnv/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://velog.io/@ghwns1007)  
