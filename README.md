@@ -36,4 +36,5 @@ Skills: REACT/ NodeJS/ MongoDB/ Javascript/ Typescript/ HTML/ CSS
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=HOJOON07)  
 
-![Profile views](https://gpvc.arturio.dev/HOJOON07)  
+
+
