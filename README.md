@@ -13,13 +13,12 @@ Skills: REACT/ NodeJS/ MongoDB/ Javascript/ Typescript/ HTML/ CSS
 <h2>하고 있는 거</h2>
 
 - 🌱 I’m currently learning Typescript , NodeJS
-- RDMS Study + ing ...(찍먹)
-- Resume..
-- React Native Study
-- AWS Study + ing(잘 모르겠음)
+- React Native 
+- AWS ECR, ECS
 - Computer Science 
 - Algorithm
-- Next.js 
+- NEXT.js
+- Typescript
 - CICD
 - Modern JavaScript DeepDive 완독하기 
 - Express, Nest
