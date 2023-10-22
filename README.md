@@ -1,5 +1,5 @@
 ### Hi there 👋, My Name is Kim HoJoon
-#### FrontEnd Developer & BackEnd Developer
+#### FrontEnd Developer & BackEnd Developer (junoir)
 ![FrontEnd Developer(a little back..)](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 Skills: REACT/ NodeJS/ MongoDB/ Javascript/ Typescript/ HTML/ CSS
