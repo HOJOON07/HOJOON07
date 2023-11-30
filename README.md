@@ -2,7 +2,7 @@
 #### FrontEnd Developer & BackEnd Developer (junoir)
 ![FrontEnd Developer(a little back..)](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-Skills: REACT/ NodeJS/ MongoDB/ Javascript/ Typescript/ HTML/ CSS
+Skills: React.js/ NEXT.js/ NodeJS/ MongoDB/ Javascript/ Typescript/ HTML/ CSS
 <h2>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Black%20Nib.png" alt="Cyclone" width="30" height="30" />
     RECENT POST 
