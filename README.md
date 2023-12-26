@@ -9,7 +9,7 @@ Skills: React.js/ NEXT.js/ NodeJS/ MongoDB/ Javascript/ Typescript/ HTML/ CSS
 </h2>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ghwns1007&color=dark)](https://velog.io/@ghwns1007)
-<h2>하고 있는 거</h2>
+<h2>Currrently Learning</h2>
 
 - 🌱 I’m currently learning Typescript , NodeJS
 - React Native 
