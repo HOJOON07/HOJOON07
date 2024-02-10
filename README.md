@@ -1,5 +1,5 @@
 ### Hi there 👋, My Name is Kim HoJoon
-#### FrontEnd Developer & BackEnd Developer (junoir)
+#### FrontEnd Developer & BackEnd Developer (junior)
 
 Skills: React.js/ NEXT.js/ NodeJS/ MongoDB/ Javascript/ Typescript/ HTML/ CSS
 <h2>
@@ -16,8 +16,9 @@ Skills: React.js/ NEXT.js/ NodeJS/ MongoDB/ Javascript/ Typescript/ HTML/ CSS
 - Algorithm
 - NEXT.js
 - Typescript
-- CICD
-- Modern JavaScript DeepDive 완독하기 
+- CI / CD
+- Modern JavaScript DeepDive 완독하기
+- Modern React DeepDive 완독하기
 - Express, Nest
 - TDD Server
 
