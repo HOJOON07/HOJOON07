@@ -9,7 +9,7 @@ Skills: React.js/ NEXT.js/ NodeJS/ MongoDB/ Javascript/ Typescript/ HTML/ CSS
 </h2>
 <h2>Currrently Learning</h2>
 
-- 🌱 I’m currently learning Typescript , NodeJS
+- 🌱 I’m currently learning Typescript , Node.js
 - React Native 
 - AWS ECR, ECS
 - Computer Science 
