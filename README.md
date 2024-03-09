@@ -7,6 +7,7 @@ Skills: React.js/ NEXT.js/ NodeJS/ MongoDB/ Javascript/ Typescript/ HTML/ CSS
     RECENT POST 
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" alt="Cyclone" width="30" height="30" />
 </h2>
+
 <h2>Currrently Learning</h2>
 
 - 🌱 I’m currently learning Typescript , Node.js
@@ -19,7 +20,7 @@ Skills: React.js/ NEXT.js/ NodeJS/ MongoDB/ Javascript/ Typescript/ HTML/ CSS
 - CI / CD
 - Modern JavaScript DeepDive 완독하기
 - Modern React DeepDive 완독하기
-- Express, Nest
+- Express, Nest.JS
 - TDD Server
 
 
