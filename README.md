@@ -19,6 +19,8 @@ Skills: React.js/ NEXT.js/ NodeJS/ MongoDB/ Javascript/ Typescript/ HTML/ CSS
 - Typescript
 - CI / CD
 - Modern JavaScript DeepDive 완독하기
+- 우아한 타입스크립트 with 리액트 완독하기
+- 쏙쏙 들어오는 함수형 코딩 완독하기
 - Modern React DeepDive 완독하기
 - Express, Nest.JS
 - TDD Server
