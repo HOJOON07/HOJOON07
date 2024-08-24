@@ -1,7 +1,7 @@
 ### 안녕하세요, 개발자 김호준입니다.
 #### FrontEnd Developer & BackEnd Developer (junior 1year)
 
-Skills: React.js/ NEXT.js/ NodeJS/ MongoDB/ Javascript/ Typescript/ HTML/ CSS
+Skills: React.js/ NEXT.js/ Nest.js/ MongoDB/ Javascript/ Typescript/ HTML/ CSS
 <h2>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Black%20Nib.png" alt="Cyclone" width="30" height="30" />
     RECENT POST 
