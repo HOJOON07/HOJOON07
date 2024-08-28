@@ -12,13 +12,14 @@ Skills: React.js/ NEXT.js/ Nest.js/ MongoDB/ Javascript/ Typescript/ HTML/ CSS
 
 - 🌱 I’m currently learning Typescript , Node.js
 - React Native 
-- AWS ECR, ECS
+- AWS로 배포 공부하기 
 - Computer Science 
 - Algorithm
 - NEXT.js
 - Typescript
 - CI / CD
 - Modern JavaScript DeepDive 완독하기
+- 디자인 패턴 (관심)
 - 우아한 타입스크립트 with 리액트 완독하기
 - 쏙쏙 들어오는 함수형 코딩 완독하기
 - Modern React DeepDive 완독하기
